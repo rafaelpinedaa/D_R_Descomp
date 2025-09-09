@@ -1,0 +1,3 @@
+Readme
+
+El presente texto es una guía para el cálculo de la descomposición de pobreza por ingresos siguiendo la metodología propuesta por Datt y Ravallion (1992). En la primera sección se describe analíticamente cada uno de los componentes o «efectos» que se toman en cuenta. La segunda parte del texto se dedica a señalar paso por paso el flujo de trabajo que debe llevarse para obtener dicha descomposición. La última sección presenta una aplicación del método para el caso de México en el periodo 2018-2022. En el anexo se presenta el script o rutina del software “R” que contiene las funciones necesarias para realizar los cálculos directamente. 
