@@ -7,3 +7,7 @@ Para dudas o recomendaciones: elafar20@gmail.com
 Each of the scripts (Dr_descomp_Original.R, DR_descomp_Inflación.R, and DR_descomp_SK.R) contains a function that automates the calculation of income poverty and extreme income poverty following the Datt and Ravallion (1992) method, depending on the type of decomposition desired (the original, one that includes the inflation effect, or one that considers the effect of a specific income source).
 The final poverty databases for the two years to be calculated are required. For decomposition by income source, the final poverty base must consider the total current household income minus the income source being analyzed (in the specific case of this routine: income from social programs).
 For questions or recommendations: elafar20@gmail.com
+
+## Datos
+
+- [Bases de datos](https://drive.google.com/file/d/1UIPjs9M6NlD3qmTbxkI1Hta0f7g57tYe/view?usp=sharing)
